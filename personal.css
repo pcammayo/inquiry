@@ -1,0 +1,81 @@
+/* Style Sheet Created by: Patrick Cammayo */
+/* Created on April 29, 2019 */
+
+/* Google Fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Mono&display=swap');
+
+
+/* Class Selectors */
+
+.dates {
+  color: #4ED963; /* Green */
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.ft-h {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #000; /* Black */
+  font-size: 20px;
+  font-weight: bold;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* HTML Selectors */
+
+h2 {
+  color: #F2E1C2; /* Tan */
+  font-family: 'Roboto Mono', monospace;
+}
+
+h3 {
+  color: #4ED963; /* Green */
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+header {
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+header a {
+  text-decoration: none;
+  color: #0583F2; /* Blue */
+}
+
+nav {
+  text-align: center;
+}
+
+main {
+  color: #F2F2F2; /* White */
+}
+
+main a {
+  text-decoration: none;
+  color: #0583F2; /* Blue */
+}
+
+footer {
+}
+
+footer ul {
+  list-style-type: none;
+}
+
+body {
+  background-color: #2E3640; /* Grey-ish Blue */
+  color: #F2F2F2; /* White */
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
+}
