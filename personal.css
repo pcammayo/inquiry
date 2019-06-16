@@ -32,6 +32,12 @@
 
 /* HTML Selectors */
 
+section {
+  border: solid #000 /* Black */ 2px;
+  background-color: #000; /* Black */
+  border-radius: 15px
+}
+
 h2 {
   color: #F2E1C2; /* Tan */
   font-family: 'Roboto Mono', monospace;
